@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact 🍩 : **You are my friend if you love *sweets.***
 
-<img src="./assets/current.gif" alt='current' width="80%">
+<img src="current.gif" alt='current' width="80%">
 
 </div>
 
