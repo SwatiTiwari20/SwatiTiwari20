@@ -3,7 +3,7 @@
 
 
 # 🐱‍👤 About Me:
-- 🏫 I’m a `Computer Science Student at DIT University dehradun.`
+- 🏫 2025 B.tech `Computer Science graduate from DIT University, dehradun.`
 
 - 💻 I'm a `Full Stack Web Developer.`
 
