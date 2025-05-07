@@ -5,7 +5,9 @@
 # 🐱‍👤 About Me:
 - 🏫 2025 B.tech `Computer Science graduate from DIT University, dehradun.`
 
-- 💻 I'm a `Full Stack Web Developer.`
+- 💻 I'm a `Full Stack Web Developer.` 
+
+- Future soldier in the making! 💪
 
 - 🔭 I’m currently working on `React and Cloud Computing.`
 
@@ -13,7 +15,7 @@
 
 - 🤝 I’m looking for `remote/on-site: Software Developer, Cloud Engineer & DevOps Internships.`
 
-- 🏀 I love to play `Basketball.`
+- 🏀 National `Basketball` Player.
 
 - ⚡ Fun fact 🍩 : **You are my friend if you love *sweets.***
 
